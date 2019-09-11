@@ -27,4 +27,4 @@ Building a synthesizer which uses color to distinguish keys.
 - Possible [sauce](https://stackoverflow.com/questions/10702105/detecting-led-object-status-from-image)
 
 ## Image Reel
-<img src="https://drive.google.com/uc?export=view&id=18BG8MIiTDI1vUmYrNF7uOQf_MQqd_1PA" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=18BG8MIiTDI1vUmYrNF7uOQf_MQqd_1PA" width="400"/>

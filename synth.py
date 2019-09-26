@@ -13,11 +13,12 @@ while(True):
 
     # Color thresholds extracted from testing [Off, On, Note]
     # This will let you play Hot Cross Buns Trio
-    green = [(), (), 'D4']
-    red = [(), (), 'G4']
-    blue = [(), (), 'A4']
-    yellow = [(), (), 'B4']
-    white = [(), (), 'C4']
+    green = [(1,88,48 ), (3,115,71), 'D4']
+    red = [(160,0,0), (200,3,25), 'G4']
+    blue = [(0,0,253), (0,0,255), 'A4']
+    yellow = [(250,200,0), (255,255,1), 'B4']
+    white = [(), (), 'C4'] # this one is very problematic since all LEDs have some white, may have to do a volume measurement
+     
 
     colors = [green, red, blue, yellow, white]
     

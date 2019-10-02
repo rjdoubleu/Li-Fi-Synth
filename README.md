@@ -1,22 +1,24 @@
-# Li-Fi-Synth
-Building a synthesizer which uses color to distinguish keys.
+# EXLAB Li-Fi Synth (In-Development)
+Building a synthesizer which uses LED color to distinguish keys.
+
+## Team Members
+Software & Electrical: Ryan Walden
+Hardware: (Natalie Skinner)[nskinner3@student.gsu.edu]
 
 ## Components and Consumables
-- Camera
+- OV5647 Camera
 - Auxiliary Cable 
-- Raspberry Pi 3
-- Solder
+- Raspberry Pi 3B
 - Wood
-- Screws/Nails
+- Wood Glue
 - 9v Battery Clip 
 - 9v Battery
 - Auxiliary Speaker
 - 5x 3 mm LED
-- Resistors (Ohm TBD)
+- 7 Resistors (Ohm TBD)
 - Micro USB Power Supply
 
 ## Required Tools
-- Soldering Iron
 - Wire Stripper
 - Various Power Tools
 
@@ -24,7 +26,7 @@ Building a synthesizer which uses color to distinguish keys.
 - Follow [this tutorial](https://realpython.com/python-opencv-color-spaces/) and adapt it to work with LEDs.
 - Follow [this tutorial](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html) to get video feed for OpenCV.
 - Also useful [stackoverflow recommendation](https://stackoverflow.com/questions/1365234/opencv-detect-blinking-lights-in-a-video-feed)
-- Possible [sauce](https://stackoverflow.com/questions/10702105/detecting-led-object-status-from-image)
+- Another (https://stackoverflow.com/questions/10702105/detecting-led-object-status-from-image)
 
 ## Image Reel
 <img src="https://drive.google.com/uc?export=view&id=178CqoPHjPOQy6yLMQ31nvg0xZ2zjgo1C" width="1000"/>

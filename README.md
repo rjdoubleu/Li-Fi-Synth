@@ -2,9 +2,8 @@
 Building a synthesizer which uses LED color to distinguish keys.
 
 ## Team Members
-Software & Electrical: Ryan Walden
-
-Hardware: [Natalie Skinner](nskinner3@student.gsu.edu)
+- Software & Electrical: Ryan Walden
+- Hardware: [Natalie Skinner](nskinner3@student.gsu.edu)
 
 ## Components and Consumables
 - OV5647 Camera
